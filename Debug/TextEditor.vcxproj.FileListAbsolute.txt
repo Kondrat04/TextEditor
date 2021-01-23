@@ -1,0 +1,2 @@
+C:\Users\kondr\source\repos\TextEditor\Debug\TextEditor.exe
+C:\Users\kondr\source\repos\TextEditor\Debug\TextEditor.pdb

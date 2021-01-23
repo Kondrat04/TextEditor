@@ -1,0 +1,220 @@
+i
+:q!
+i
+i
+i
+i
+i
+0
+i
+i
+i
+i
+:o test_file.txt
+i
+:o test_file.txt
+1G
+2G
+i
+:p
+:o test_file.txt
+y
+K
+p
+i
+i
+:o test_file.txt
+i
+i
+i
+i
+i
+i
+i
+i
+:q
+:o test_file.txt
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+:o test_file.txt
+\
+/a
+n
+n
+n
+n
+n
+n
+n
+n
+:q
+:o test_file.txt
+i
+:q!
+:o test_file.txt
+dd
+dd
+dd
+dd
+dd
+i
+:q!
+:o test_file.txt
+:q
+:o test_file.txt
+:o test_file.txt
+o
+:o rwef
+File not found
+H
+i
+:o second_file
+File was edited but wasn't saved
+H
+:q!
+:o test_file.txt
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+:o second_file.txt
+:q
+:o test_file
+File not found
+:o test_file.txt
+i
+:o test_file.txt
+
+i
+:o test_file.txt
+i
+:o test_file.txt
+i
+:o test_file.txt
+:o test_file.txt
+:o test_file.txt
+i
+:q!
+:o test_file.txt
+:h
+:q
+:h
+:q
+:o test_file.txt
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+y
+P
+p
+dd
+dd
+dd
+dd
+:q!
+:q
+:q
+:o test_file.txt
+i
+12G
+:h
+:‡Q
+:o test_file.txt
+:q
+:q

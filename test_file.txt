@@ -1,0 +1,54 @@
+q? q q q/ q q q q
+we we we(45) we   
+rty rty q we %$ rty
+
+1
+   
+
+ Just a, ragul@r text.we we we(45) we   we we we(45) we   
+Numbers:22222
+ 
+1 + 2 = 3 71" "73 //
+//Flags used by the linker daring the creation of shared libraries
+start// during RELLEREASE builds.end
+CMAKE_SHARED_LINKER_FLAGS_RELEASE:STRING=
+
+//Flags used by the linker during the creation of shared libraries
+kek
+CMAKE_SHARED_LINKER_FLAGS_RELWITHDEBINFO:STRING=
+
+//If set, runtime paths are not added when installing shared libraries,
+// but are added when building.
+CMAKE_SKIP_INSTALL_RPATH:BOOL=NO
+
+//If set, runtime paths are not added when using shared libraries.
+CMAKE_SKIP_RPATH:BOOL=NO
+
+//Flags used by the linker during the creation of static libraries
+// during all build types.
+CMAKE_STATIC_LINKER_FLAGS:STRING=
+
+//Flags used by the linker during the creation of static libraries
+// during DEBUG builds.
+CMAKE_STATIC_LINKER_FLAGS_DEBUG:STRING=
+
+//Flags used by the linker during the creation of static libraries
+// during MINSIZEREL builds.
+CMAKE_STATIC_LINKER_FLAGS_MINSIZEREL:STRING=
+
+//Flags used by the linker during the creation of static libraries
+// during RELEASE builds.
+CMAKE_STATIC_LINKER_FLAGS_RELEASE:STRING=
+
+//Flags used by the linker during the creation of static libraries
+// during RELWITHDEBINFO builds.
+CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
+
+//Path to a program.
+CMAKE_STRIP:FILEPATH=C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/strip.exe
+
+//If this value is on, makefiles will be generated without the
+// .SILENT directive, and all commands will be echoed to the console
+// during the make.  This is useful for debugging only. With Visual
+// Studio IDE projects all commands are done without /nologo.
+CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE

@@ -1,0 +1,29 @@
+﻿  ControllerTextEditor.cpp
+  ModelTextEditor.cpp
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(39,27): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(75,69): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(92,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(93,69): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(121,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(180,108): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(197,104): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(213,50): warning C4267: 'initializing': conversion from 'size_t' to 'WORD', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(234,55): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(244,55): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(263,55): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(307,51): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(312,51): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(338,51): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(376,48): warning C4244: '=': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(588,39): warning C4244: '=': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(705,104): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(720,96): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(726,31): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(759,15): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(917,27): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(925,27): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+C:\Users\kondr\source\repos\TextEditor\ModelTextEditor.cpp(950,39): warning C4244: 'argument': conversion from 'DWORD' to 'SHORT', possible loss of data
+  ViewTextEditor.cpp
+  main.cpp
+  Generating Code...
+  TextEditor.vcxproj -> C:\Users\kondr\source\repos\TextEditor\Debug\TextEditor.exe

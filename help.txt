@@ -1,0 +1,28 @@
+COMMANDS
+
+Cursor Movement Commands                                        Copy and Paste Commands
+
+^ or 0(zero) = Move cursor to the beginning of current line     y ======= Copy current line
+$ ============ Move cursor to the end of current line           yw ====== Copy word
+w ============ Forward one word (end of word)                   p ======= paste below cursor
+b ============ Backward one word (beginning of word)
+gg =========== Cursor goes to the beginning of file
+G ============ Cursor goes to the end of file
+nG or :n ===== Cursor goes to the specified (n) line
+
+Text Entry Commands (Used to start text entry)                  Search Commands
+
+i ============ Insert text before the current cursor position   /text === Search forward for the text
+I ============ Insert text at the beginning of the cursor line  ?text === Search backward for the text
+A ============ Append text to the end of current line           n ======= Continue to find next occurrence of the text
+S ============ Delete current line and start inserting          N ======= Reversive search for the text
+
+File Manipulation Commands                                      Text Deletion Commands
+
+:o filename == Open named file                                  x ======= Delete character
+:x =========== Write file to disk and quit the editor           r ======= Replace one character at the cursor position
+:w =========== Write workspace to original file                 diw ===== Delete word (involving right-side spaces)
+:w filename == Write workspace to named file                    dd ====== Delete line
+:wq! ========= Write file to disk and quit the editor
+:q! ========== Quit (no warning)
+:h =========== Show this file
